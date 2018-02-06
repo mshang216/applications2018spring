@@ -1,0 +1,16 @@
+{
+  "lofi-wireframes" : [
+    {
+      "lofi-wireframes" : "Home Page",
+      "Home Page" : "homepage.html"
+    },
+    {
+      "lofi-wireframes" : "Product List Page",
+      "Product List" : "productlist.html"
+    },
+    {
+      "lofi-wireframes" : "Product Page",
+      "Product Details" : "productdetails.html"
+    }
+  ]
+}
