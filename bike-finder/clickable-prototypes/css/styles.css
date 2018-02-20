@@ -18,6 +18,13 @@ body{
 	text-indent: -9999px;
 }
 
+.home {
+	top: 8%;
+	left: 1%;
+	width: 25%;
+	height: 8%;
+}
+
 .shop {
  	top: 23%;
 	left: 2%;
@@ -39,6 +46,13 @@ body{
 	height: 4%;
 }
 
+.product {
+	top: 30%;
+	left: 38%;
+	width: 18%;
+	height: 7%;
+}
+
 .specs {
 	top: 68%;
 	left: 15%;
@@ -58,6 +72,13 @@ body{
 	left: 5%;
 	width: 10%;
 	height: 3%;
+}
+
+.bmx {
+	top: 19%;
+	left: 13.5%;
+	width: 2.5%;
+	height: 2%;
 }
 
 /*a{
