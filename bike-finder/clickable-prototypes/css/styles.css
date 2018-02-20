@@ -1,0 +1,33 @@
+body{
+	margin: 0;
+}
+
+.page {
+	width: 1200px;
+	margin: auto;
+	position: relative;
+	display: block;
+}
+
+.page img {
+	width: 100%;
+}
+
+.hotspot {
+	position: absolute;
+	display: block;
+}
+
+.logo {
+ 	top: 0px;
+	left: 0px;
+	width: 20px;
+	height: 8px;
+}
+
+.search{
+	top: 3px;
+	left: 
+}
+
+body:hover: 
