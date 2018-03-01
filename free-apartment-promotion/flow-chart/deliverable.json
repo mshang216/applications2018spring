@@ -1,0 +1,12 @@
+{
+  "entrypoints" : [
+    {
+      "name" : "Flowchart",
+      "file" : "index.html"
+    },
+    {
+      "name" : "Flowchart Revised",
+      "file" : "flowchart.html"
+    }
+  ]
+}
