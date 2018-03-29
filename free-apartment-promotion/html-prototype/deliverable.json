@@ -3,18 +3,6 @@
     {
       "name" : "Final Visual Frames",
       "file" : "visual.html"
-    },
-    {
-      "name" : "First Page",
-      "file" : "myFileName.html"
-    },
-    {
-      "name" : "Second Page",
-      "file" : "whateverIWantToCallIt.html"
-    },
-    {
-      "name" : "Third Page",
-      "file" : "page3.html"
     }
   ]
 }
