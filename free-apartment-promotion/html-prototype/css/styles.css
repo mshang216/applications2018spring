@@ -1,0 +1,250 @@
+/*html{
+	height: 1175px;
+	margin: 0px;
+}
+*/
+body {
+    font-family: 'Overpass', sans-serif;
+    max-width: 750px;
+    background-color: #3023b1; /*bright-indigo*/
+/*    height: 1135px;*/
+    margin: 0px;
+}
+
+h1{
+	font-size: 80px;
+	color: #fffefd; /*cream-white*/
+	text-align: center;
+	position: relative;
+	margin-top: 40px;
+	margin-bottom: 0px;
+}
+
+h2{
+	font-size: 9px;
+	font-weight: 400;
+	color: #867fcb; /*purple-2*/
+	text-align: center;
+	line-height: 14px;
+	letter-spacing: 0.5px;
+	margin-top: 5px;
+	margin-bottom: 60px;
+}
+
+#headQ{
+	background-color: #3023b1; /*bright-indigo*/
+	height: 560px;
+}
+
+#headQ p{
+	text-align: left;
+	font-size: 13px;
+	letter-spacing: 0.75px;
+	line-height: 21px;
+	font-weight: 300;
+	color: #ffa190; /*coral*/
+}
+
+#headQ img{
+	display: block;
+	margin-bottom: 0px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 8%;
+}
+
+@media screen and (min-width: 250px) {
+	#headQ p{
+		margin-left: auto;
+		margin-right: auto;
+		width: 75%;
+	}
+
+#intro{
+	background-color: #e0ddff; /*purple-3*/
+	height: 540px;
+	margin-bottom: 20px;
+}
+	
+
+.labels{
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h3{ /*e|z*/
+	color: #fffefd;
+	font-size: 14px;
+	margin: 0px;
+	padding-top: 20px;
+}
+
+h4{ /*To Sign Up*/
+	font-size: 14px;
+	font-weight:800;
+	letter-spacing: 1px;
+	margin-top: 130px;
+	margin-bottom: 20px; 
+}
+
+.subintro { 
+	color: #1B1464; /*dark indigo*/
+	font-size: 12px;
+	font-weight: 300;
+	letter-spacing: 0.25px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	text-align: center;
+	width: 60%;
+}
+
+.button{
+	background-color: #3023b1;
+	color: #ffa190;
+	font-size: 24px;
+	font-weight: 700;
+	font-style: italic;
+	letter-spacing: 1.5px;
+	text-align: center;
+	margin-top: 70px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 25px;
+	padding: 15px 10px 15px 10px;
+	width: 220px;
+	height: 35px;
+}
+
+.button a{
+	color: #ffa190;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #fffefd;
+}
+
+.swipe-direction{
+	margin-top: 15px;
+}
+	
+.swipe-direction h5{ /*nuts n' bolts*/
+	color: #867FCB;
+	font-size: 14px;
+	letter-spacing: 1.25px;
+	overflow: visible;
+	float: left;
+	margin-left: 145px;
+	margin-bottom: 0px;
+}
+
+.swipe-direction img{
+	display: block;
+	float: right;
+	overflow: visible;
+	margin-right: 70px;
+	margin-top: 8px;
+	width: 4.5%;
+} 	
+
+.swipe-direction p{ /*"Swipe over..."*/
+	display: block;
+	height: 10px;
+	color: #fffefd;
+	font-size: 9px;
+	font-weight: 300;
+	letter-spacing: 0.75px;
+	text-align: center;
+	margin-right: 120px;
+	margin-left: 110px;*/
+	margin-top: 0px;
+	margin-bottom: 120px;
+}
+
+.end{
+	margin-top: 160px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h6{ /*Locations FAQs Home*/
+	color: #867FCB; /*purple-1*/
+	font-size: 12px;
+	font-weight: 300;
+	letter-spacing: 1px;
+	text-align: center;
+	padding-top: 0px;
+	margin-bottom: 15px;
+}
+
+#header img{
+	display: block;
+	margin-top: 9px;
+	margin-bottom: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 8%;
+}
+
+#nuts {
+	color: #1B1464; /*dark indigo*/
+	font-size: 14px;
+	font-weight:800;
+	letter-spacing: 1px;
+	margin-top: 40px;
+	margin-bottom: 20px; 
+	text-align: center;
+}
+
+.nutslist{
+	font-size: 10px;
+	padding-left: 50px;
+	padding-right: 40px;
+	letter-spacing: 0.25px;
+	line-height: 15px;
+}
+
+.swipe-right h5{ /*qualifications*/
+	color: #867FCB;
+	font-size: 14px;
+	letter-spacing: 1.25px;
+	overflow: visible;
+	float: left;
+	margin-left: 135px;
+	margin-top: 30px;
+	margin-bottom: 0px;
+}
+
+.swipe-right img{
+	display: block;
+	float: right;
+	overflow: visible;
+	margin-top: 39px;
+	width: 2%;
+	margin-right: 150px;
+}
+
+.swipe-left h5{ /*sign up page*/
+	color: #867FCB;
+	font-size: 14px;
+	letter-spacing: 1.25px;
+	overflow: visible;
+	float: right;
+	margin-right: 145px;
+	margin-top: 2px;
+}
+
+.swipe-left img{
+	display: block;
+	float: left;
+	overflow: visible;
+	width: 2%;
+	margin-left: 145px;
+	margin-top: 9px;
+}
+
