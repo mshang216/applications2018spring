@@ -1,0 +1,46 @@
+body{
+margin:0;
+}
+
+.page img {
+	width: 28%;
+	position: center;
+}
+
+.hotspot {
+	position: absolute;
+	display: block;
+	text-indent: -9999px;
+}
+
+.begin {
+	top: 97%;
+	left: 10%;
+	width: 8%;
+	height: 10%;
+}
+
+.female {
+	top: 55%;
+	left: 11%;
+	width: 6.5%;
+	height: 100%;
+}
+
+.measure {
+	top: 147%;
+	left: 6.75%;
+	width: 15%;
+	height: 10%;
+}
+
+.back{
+	top: 158%;
+	left: 11%;
+	width: 7%;
+	height: 5.5%;
+}
+
+.next {
+
+}
